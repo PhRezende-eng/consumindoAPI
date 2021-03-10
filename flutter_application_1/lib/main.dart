@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/HomePage/DIO/dio_bindings.dart';
+import 'package:flutter_application_1/homePage/dio/dio_bindings.dart';
 import 'package:get/get.dart';
-import 'HomePage/DIO/dio_page.dart';
-import 'HomePage/DIO/dio_bindings.dart';
-import 'HomePage/homePage.dart';
+import 'homePage/dio/dio_page.dart';
+import 'homePage/dio/dio_bindings.dart';
+import 'homePage/homePage.dart';
 
 void main() {
   runApp(MyApp());
